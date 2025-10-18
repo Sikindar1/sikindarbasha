@@ -40,14 +40,14 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/sikindar-basha',
-      href: 'https://linkedin.com/in/sikindar-basha',
+      value: 'linkedin.com/in/sikindarbasha',
+      href: 'https://www.linkedin.com/in/sikindarbasha/',
     },
     {
       icon: Github,
       label: 'GitHub',
-      value: 'github.com/sikindar-basha',
-      href: 'https://github.com/sikindar-basha',
+      value: 'github.com/Sikindar1',
+      href: 'https://github.com/Sikindar1',
     },
   ];
 
