@@ -28,15 +28,15 @@ const Hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-4">
-            Your Name Here
+            Shaik Sikindar Basha
           </h1>
           
           <p className="text-xl md:text-2xl text-white/90 mb-8 font-light">
-            Aspiring Software Developer
+            AI & ML Developer | Frontend Engineer
           </p>
           
           <p className="text-lg text-white/80 mb-12 max-w-2xl mx-auto">
-            Passionate about crafting elegant solutions through code and building innovative applications that make a difference.
+            Final-year B.Tech student passionate about AI, Machine Learning, and Web Development. Building innovative solutions with modern technologies and problem-solving skills.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

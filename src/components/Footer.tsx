@@ -4,9 +4,9 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Mail, href: 'mailto:your.email@example.com', label: 'Email' },
-    { icon: Linkedin, href: 'https://linkedin.com/in/yourprofile', label: 'LinkedIn' },
-    { icon: Github, href: 'https://github.com/yourusername', label: 'GitHub' },
+    { icon: Mail, href: 'mailto:shaiksikindar5560@gmail.com', label: 'Email' },
+    { icon: Linkedin, href: 'https://linkedin.com/in/sikindar-basha', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/sikindar-basha', label: 'GitHub' },
   ];
 
   return (
@@ -32,7 +32,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="text-center">
             <p className="flex items-center gap-2 text-background/80">
-              Made with <Heart size={16} className="text-primary fill-primary" /> by Your Name
+              Made with <Heart size={16} className="text-primary fill-primary" /> by Shaik Sikindar Basha
             </p>
             <p className="text-sm text-background/60 mt-2">
               © {currentYear} All rights reserved.

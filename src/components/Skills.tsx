@@ -4,15 +4,19 @@ const Skills = () => {
   const skillCategories = [
     {
       category: 'Languages',
-      skills: ['Java', 'JavaScript', 'TypeScript', 'Python', 'SQL', 'HTML', 'CSS'],
+      skills: ['Java', 'Python', 'JavaScript', 'SQL', 'HTML', 'CSS'],
     },
     {
       category: 'Frameworks & Libraries',
-      skills: ['React', 'Node.js', 'Express', 'Tailwind CSS', 'Spring Boot'],
+      skills: ['React', 'Tailwind CSS', 'Node.js'],
     },
     {
       category: 'Tools & Technologies',
-      skills: ['Git', 'GitHub', 'VS Code', 'MySQL', 'MongoDB', 'REST APIs'],
+      skills: ['Git', 'GitHub', 'VS Code', 'MySQL', 'REST APIs', 'API Integration'],
+    },
+    {
+      category: 'Methodologies',
+      skills: ['SDLC', 'Agile', 'OOP', 'Data Structures & Algorithms'],
     },
   ];
 

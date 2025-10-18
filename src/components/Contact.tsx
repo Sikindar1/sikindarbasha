@@ -34,20 +34,20 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'shaiksikindar5560@gmail.com',
+      href: 'mailto:shaiksikindar5560@gmail.com',
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/yourprofile',
-      href: 'https://linkedin.com/in/yourprofile',
+      value: 'linkedin.com/in/sikindar-basha',
+      href: 'https://linkedin.com/in/sikindar-basha',
     },
     {
       icon: Github,
       label: 'GitHub',
-      value: 'github.com/yourusername',
-      href: 'https://github.com/yourusername',
+      value: 'github.com/sikindar-basha',
+      href: 'https://github.com/sikindar-basha',
     },
   ];
 

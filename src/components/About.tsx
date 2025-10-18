@@ -14,9 +14,9 @@ const About = () => {
 
         <div className="max-w-4xl mx-auto">
           <p className="text-lg text-muted-foreground mb-12 text-center leading-relaxed animate-slide-in-left">
-            I'm a passionate aspiring software developer with a strong foundation in computer science 
-            and a drive to create innovative solutions. Currently pursuing my degree, I'm constantly 
-            learning and expanding my skillset to stay at the forefront of technology.
+            Passionate final-year B.Tech student in AI & ML with hands-on experience in Java, JavaScript, React, SQL, and modern web technologies. 
+            Familiar with SDLC, Agile methodology, and Object-Oriented Programming. A self-starter with strong problem-solving skills, 
+            eager to learn and contribute to innovative technology projects. Experienced in developing web applications, database analysis, and integrating APIs.
           </p>
 
           <div className="grid md:grid-cols-3 gap-6">
@@ -27,9 +27,11 @@ const About = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Education</h3>
                 <p className="text-muted-foreground">
-                  Bachelor's in Computer Science
+                  B.Tech in Computer Science (AI & ML)
                   <br />
-                  <span className="text-sm">Expected Graduation: 2025</span>
+                  <span className="text-sm font-medium">Mohan Babu University</span>
+                  <br />
+                  <span className="text-sm">CGPA: 9.73 | Expected: July 2026</span>
                 </p>
               </CardContent>
             </Card>
@@ -41,7 +43,7 @@ const About = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Interests</h3>
                 <p className="text-muted-foreground">
-                  Web Development, AI/ML, Open Source, Problem Solving
+                  Artificial Intelligence, Machine Learning, Frontend Development, API Integration, Database Analytics
                 </p>
               </CardContent>
             </Card>
@@ -53,7 +55,7 @@ const About = () => {
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Goals</h3>
                 <p className="text-muted-foreground">
-                  Build impactful software, contribute to innovative projects, continuous growth
+                  Contribute to AI/ML innovations, build scalable web applications, and continuously enhance technical expertise
                 </p>
               </CardContent>
             </Card>
