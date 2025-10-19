@@ -8,11 +8,11 @@ const Skills = () => {
     },
     {
       category: 'Frameworks & Libraries',
-      skills: ['React', 'Tailwind CSS', 'Node.js'],
+      skills: ['React', 'Tailwind CSS'],
     },
     {
       category: 'Tools & Technologies',
-      skills: ['Git', 'GitHub', 'VS Code', 'MySQL', 'REST APIs', 'API Integration'],
+      skills: ['Git', 'GitHub', 'VS Code', 'MySQL', 'API Integration'],
     },
     {
       category: 'Methodologies',
